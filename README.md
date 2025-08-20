@@ -102,13 +102,3 @@ Upload this CSV in the sidebar to test.
 ✔ Refinements (must-have, avoid, exclude)  
 ✔ CSV export  
 
----
-
-## 📸 Screenshot
-
-*(Add a screenshot of your Streamlit app results here)*
-
----
-
-## 📜 License
-MIT License
